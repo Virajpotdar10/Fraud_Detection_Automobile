@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+# Virtual environment (if any)
+venv/
+env/
+
+# Data and Models
+# NOTE: Removing these comments if you specifically want to push the models/dataset to github.
+# For some deployments, pushing the model is necessary so leaving it un-ignored for now.
+# eda_results/
+# dataset/
+# models/
